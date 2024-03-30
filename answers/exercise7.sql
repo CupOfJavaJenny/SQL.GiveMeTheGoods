@@ -1,0 +1,2 @@
+SELECT * FROM Course
+WHERE value CreditHours BETWEEN 10 AND 20;

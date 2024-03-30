@@ -1,2 +1,2 @@
 SELECT * FROM Students
-WHERE 'a'
+WHERE CITY LIKE '[a-f]%';
