@@ -1,2 +1,2 @@
 SELECT PostalCode AS Zip
-FROM Student;
+FROM Students;
